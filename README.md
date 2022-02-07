@@ -6,10 +6,10 @@ The files in this repository will give you examples of what is need to get SLURM
 This is a work in process.
 
 Three links of interest:
-1. (AWS)[https://github.com/aws-samples/aws-plugin-for-slurm/tree/plugin-v2]
-2. (Azure)[https://github.com/Azure/cyclecloud-slurm]
-3. (GCP)[https://github.com/SchedMD/slurm-gcp]
-4. (Jetstream)[https://iujetstream.atlassian.net/wiki/spaces/JWT/pages/39682057/Using+the+Jetstream+API] Much more in the menu.
+1. [AWS](https://github.com/aws-samples/aws-plugin-for-slurm/tree/plugin-v2)
+2. [Azure](https://github.com/Azure/cyclecloud-slurm)
+3. [GCP](https://github.com/SchedMD/slurm-gcp)
+4. [Jetstream](https://iujetstream.atlassian.net/wiki/spaces/JWT/pages/39682057/Using+the+Jetstream+API) Much more in the menu.
 
 It may be useful to remember the sinfo codes:  
 \*  The node is presently not responding and will not be allocated any new work. If the node remains non-responsive, it will be placed in the DOWN state (except in the case of COMPLETING, DRAINED, DRAINING, FAIL, FAILING nodes).  
